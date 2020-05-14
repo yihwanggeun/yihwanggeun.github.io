@@ -18,7 +18,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
+  title: Software Yi Hwang Geun
   tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   style: black
