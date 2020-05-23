@@ -25,10 +25,10 @@ Link: <a href="https://github.com/Just-Some-Bots/MusicBot/blob/master/LICENSE">h
 Link: <a href="https://github.com/Just-Some-Bots/MusicBot">https://github.com/Just-Some-Bots/MusicBot</a> 
 </p>
 
-<h1>선정이유</h1>
+<h1>현재 진행사항</h1>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;디스코드 버젼이 업그레이드되도 호환성을 꾸준히 유지하는 것과 한글로도 사용할 수 있게 코드를 추가하는 것으로 기여할 수 있을 것 같다. <div></div>
-&nbsp;&nbsp;&nbsp;&nbsp;이와 함께, 언어를 배우는것에 시간을 투자하기 보다 실제 OSS프로젝트에 참여하고 기여하는 것이 본 수업의 취지와 적합하다고 판단하여 조원 모두가 익숙한 언어은 파이썬을 사용하는 프로젝트를 선정하게 되었다.
+&nbsp;&nbsp;&nbsp;&nbsp; <div>원래 텔레그램 채팅 봇과 뮤직봇 중에 어떤 Open Source가 우리가 활용하는 데 좋을 지 고민을 하였다. 5월 22일까지 고민을 하던 중 텔리그램은 양이 너무 많고 현재 대학생인 우리가 수정하는데 어려움이 있을 것 같아 텔레그램 채팅 봇을 포기하고 디스코드 뮤직 봇에 대해서 연구를 진행하기로 결정하였다. </div>
+&nbsp;&nbsp;&nbsp;&nbsp; 본격적으로 디스코드 뮤직 봇의 Open Source를 분석하기 전에 코드를 Github에 옮겨둔 상황이고 현재 어떤 부분을 수정하여 더 졿은 방향으로 이끌어 나갈 지 고민하는 중이다.
 </p>
 
 <h1>최근 이슈</h1>
