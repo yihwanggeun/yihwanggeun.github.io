@@ -2,6 +2,8 @@
 layout: post
 title:  "Telegram Bot"
 date:   2020-05-17
+현재 진행사항: 40%
+내가 맡은 부분: "github관리, 코드 추가"
 ---
 <!--
 <title> Telegram Bot </title>
